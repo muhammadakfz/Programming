@@ -1,0 +1,1 @@
+{"name":"Local: pp","url":"c:\\Users\\muham\\OneDrive\\Documents\\Programming\\Python\\Learn\\HelloWorld\\pp.py","tests":[{"id":1647294621867,"input":"1\n1\n7 7\n7 10 5 0 8 1 5","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\muham\\OneDrive\\Documents\\Programming\\Python\\Learn\\HelloWorld\\pp.py","group":"local","local":true}
